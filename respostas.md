@@ -112,6 +112,9 @@ chmod +x .git/hooks/pre-commit
 Agora, sempre que você tentar fazer um commit, os testes automatizados serão executados e o commit será cancelado se os testes falharem.
 
 
+
+
+</br>
 2.  Crie uma estratégia de branching mais avançada para um projeto que envolva múltiplas funcionalidades e versões de lançamento.
 
 Uma estratégia de branching comum envolve o uso de três tipos principais de branches:
