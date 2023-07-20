@@ -116,6 +116,7 @@ Agora, sempre que você tentar fazer um commit, os testes automatizados serão e
 
 </br>
 2.  Crie uma estratégia de branching mais avançada para um projeto que envolva múltiplas funcionalidades e versões de lançamento.\n
+
 ***Reposta***</br>
 
 Uma estratégia de branching comum envolve o uso de três tipos principais de branches:
